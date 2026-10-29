@@ -1,0 +1,9 @@
+The PTA source and its public header adapt OP-TEE attestation sources from the
+NVIDIA Jetson Linux 36.5 OP-TEE source package. The original files carry this
+notice:
+
+Copyright (C) 2021, Huawei Technologies Co., Ltd
+SPDX-License-Identifier: BSD-2-Clause
+
+The NVIDIA Jetson OP-TEE tree and its build dependencies are separate works.
+They are not distributed in this repository. Their own license terms apply.
